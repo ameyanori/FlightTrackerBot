@@ -1,0 +1,10 @@
+{
+"A320" : {"id" : 1, "text" : "Airbus A320-232", "price" : 10000000 , "long_haul" : 200000, "short_haul" : 90000},
+"B737" : {"id" : 2, "text" : "Boeing 737-800", "price" : 10000000 , "long_haul" : 170000, "short_haul" : 120000},
+"B777" : {"id" : 3, "text" : "Boeing 777-300ER", "price" : 33000000 , "long_haul" : 400000, "short_haul" : 200000},
+"B787" : {"id" : 4, "text" : "Boeing 787-10", "price" : 40000000, "long_haul" : 500000, "short_haul" : 250000},
+"A330" : {"id" : 5, "text" : "Airbus A330-300", "price" : 35000000, "long_haul" : 450000, "short_haul" : 225000},
+"Q400" : {"id" : 6, "text" : "Bombardier Q-400", "price" : 4000000, "long_haul" : "unable", "short_haul" : 180000},
+"B747" : {"id" : 7, "text" : "Boeing 747-800", "price" : 45000000, "long_haul" : 650000, "short_haul" : 125000},
+"CRJ7" : {"id" : 8, "text" : "Bombardier CRJ-700", "price" : 3000000, "long_haul" : "unable", "short_haul" : 150000}}
+

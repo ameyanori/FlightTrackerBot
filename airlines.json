@@ -1,0 +1,1730 @@
+{
+    "airlines": {
+        "UAL": {
+            "country": "USA",
+            "name": "United Airlines",
+            "fleet": 1439,
+            "icao": "UAL",
+            "iata": "UA",
+            "callsign": "UNITED"
+        },
+        "VXP": {
+            "country": "USA",
+            "name": "Avelo",
+            "fleet": 15,
+            "icao": "VXP",
+            "iata": "XP",
+            "callsign": "Avelo"
+        },
+        "DAL": {
+            "country": "USA",
+            "fleet": 1256,
+            "icao": "DAL",
+            "iata": "DL",
+            "callsign": "DELTA",
+            "name": "Delta Air Lines"
+        },
+        "SCX": {
+            "country": "USA",
+            "fleet": 43,
+            "icao": "SCX",
+            "iata": "SY",
+            "callsign": "SUN COUNTRY",
+            "name": "Sun Country Airlines"
+        },
+        "JBU": {
+            "country": "USA",
+            "fleet": 288,
+            "icao": "JBU",
+            "iata": "B6",
+            "callsign": "JETBLUE",
+            "name": "JetBlue Airways"
+        },
+        "IGO": {
+            "country": "IND",
+            "fleet": 261,
+            "icao": "IGO",
+            "iata": null,
+            "callsign": "IFLY",
+            "name": "IndiGo"
+        },
+        "SIA": {
+            "country": "SGP",
+            "fleet": 155,
+            "icao": "SIA",
+            "iata": "SQ",
+            "callsign": "SINGAPORE",
+            "name": "Singapore Airlines"
+        },
+        "VTI": {
+            "country": "IND",
+            "fleet": 55,
+            "icao": "VTI",
+            "iata": "UK",
+            "callsign": "VISTARA",
+            "name": "Vistara"
+        },
+        "QFA": {
+            "country": "AUS",
+            "fleet": 241,
+            "icao": "QFA",
+            "iata": "QF",
+            "callsign": "QANTAS",
+            "name": "Qantas"
+        },
+        "AAL": {
+            "country": "USA",
+            "fleet": 1534,
+            "icao": "AAL",
+            "iata": "AA",
+            "callsign": "AMERICAN",
+            "name": "American Airlines"
+        },
+        "ANZ": {
+            "country": "NZL",
+            "fleet": 101,
+            "icao": "ANZ",
+            "iata": "NZ",
+            "callsign": "NEW ZEALAND",
+            "name": "Air New Zealand"
+        },
+        "FFT": {
+            "country": "USA",
+            "fleet": 114,
+            "icao": "FFT",
+            "iata": "F9",
+            "callsign": "FRONTIER FLIGHT",
+            "name": "Frontier Airlines"
+        },
+        "TTW": {
+            "country": "CHN",
+            "fleet": 14,
+            "icao": "TTW",
+            "iata": null,
+            "callsign": "SMART CAT",
+            "name": "Tigerair Taiwan"
+        },
+        "LAN": {
+            "country": "CHL",
+            "fleet": 294,
+            "icao": "LAN",
+            "iata": "LA",
+            "callsign": "LAN CHILE",
+            "name": "LATAM Airlines"
+        },
+        "PIA": {
+            "country": "PAK",
+            "fleet": 31,
+            "icao": "PIA",
+            "iata": "PK",
+            "callsign": "PAKISTAN",
+            "name": "Pakistan International Airlines"
+        },
+        "QTR": {
+            "country": "QAT",
+            "fleet": 244,
+            "icao": "QTR",
+            "iata": "QR",
+            "callsign": "QATARI",
+            "name": "Qatar Airways"
+        },
+        "BAW": {
+            "country": "GBR",
+            "fleet": 288,
+            "icao": "BAW",
+            "iata": "BA",
+            "callsign": "SPEEDBIRD",
+            "name": "British Airways"
+        },
+        "ETD": {
+            "country": "ARE",
+            "fleet": 99,
+            "icao": "ETD",
+            "iata": "EY",
+            "callsign": "ETIHAD",
+            "name": "Etihad Airways"
+        },
+        "CPA": {
+            "country": "CHN",
+            "fleet": 174,
+            "icao": "CPA",
+            "iata": "CX",
+            "callsign": "CATHAY",
+            "name": "Cathay Pacific"
+        },
+        "ROI": {
+            "country": "VEN",
+            "fleet": 13,
+            "icao": "ROI",
+            "iata": "9V",
+            "callsign": "AVIOR",
+            "name": "Avior Airlines"
+        },
+        "AIC": {
+            "country": "IND",
+            "fleet": 123,
+            "icao": "AIC",
+            "iata": "AI",
+            "callsign": "AIRINDIA",
+            "name": "Air India"
+        },
+        "EXS": {
+            "country": "GBR",
+            "fleet": 103,
+            "icao": "EXS",
+            "iata": "LS",
+            "callsign": "CHANNEX",
+            "name": "Jet2"
+        },
+        "THY": {
+            "country": "TUR",
+            "fleet": 324,
+            "icao": "THY",
+            "iata": "TK",
+            "callsign": "TURKISH",
+            "name": "Turkish Airlines"
+        },
+        "ETH": {
+            "country": "ETH",
+            "fleet": 123,
+            "icao": "ETH",
+            "iata": "ET",
+            "callsign": "ETHIOPIAN",
+            "name": "Ethiopian Airlines"
+        },
+        "UAE": {
+            "country": "ARE",
+            "fleet": 267,
+            "icao": "UAE",
+            "iata": "EK",
+            "callsign": "EMIRATES",
+            "name": "Emirates"
+        },
+        "MAU": {
+            "country": "MUS",
+            "fleet": 11,
+            "icao": "MAU",
+            "iata": "MK",
+            "callsign": "AIRMAURITIUS",
+            "name": "Air Mauritius"
+        },
+        "KLM": {
+            "country": "NLD",
+            "fleet": 172,
+            "icao": "KLM",
+            "iata": "KL",
+            "callsign": "KLM",
+            "name": "KLM"
+        },
+        "RJA": {
+            "country": "JOR",
+            "fleet": 26,
+            "icao": "RJA",
+            "iata": "RJ",
+            "callsign": "JORDANIAN",
+            "name": "Royal Jordanian"
+        },
+        "CAI": {
+            "country": "TUR",
+            "fleet": 43,
+            "icao": "CAI",
+            "iata": "XC",
+            "callsign": "CORENDON",
+            "name": "Corendon Airlines"
+        },
+        "ANA": {
+            "country": "JPN",
+            "fleet": 244,
+            "icao": "ANA",
+            "iata": "NH",
+            "callsign": "ALL NIPPON",
+            "name": "All Nippon Airways"
+        },
+        "DLH": {
+            "country": "DEU",
+            "fleet": 309,
+            "icao": "DLH",
+            "iata": "LH",
+            "callsign": "LUFTHANSA",
+            "name": "Lufthansa"
+        },
+        "PAL": {
+            "country": "PHL",
+            "fleet": 76,
+            "icao": "PAL",
+            "iata": "PR",
+            "callsign": "PHILIPPINE",
+            "name": "Philippine Airlines"
+        },
+        "AFR": {
+            "country": "FRA",
+            "fleet": 270,
+            "icao": "AFR",
+            "iata": "AF",
+            "callsign": "AIRFRANS",
+            "name": "Air France"
+        },
+        "TAR": {
+            "country": "TUN",
+            "fleet": 28,
+            "icao": "TAR",
+            "iata": "TU",
+            "callsign": "TUNAIR",
+            "name": "Tunisair"
+        },
+        "VRE": {
+            "country": "CIV",
+            "fleet": 12,
+            "icao": "VRE",
+            "iata": null,
+            "callsign": "COTE D'IVOIRE",
+            "name": "Air Cote d'Ivoire"
+        },
+        "FIN": {
+            "country": "FIN",
+            "fleet": 84,
+            "icao": "FIN",
+            "iata": "AY",
+            "callsign": "FINNAIR",
+            "name": "Finnair"
+        },
+        "RYR": {
+            "country": "IRL",
+            "fleet": 472,
+            "icao": "RYR",
+            "iata": "FR",
+            "callsign": "RYANAIR",
+            "name": "Ryanair"
+        },
+        "BOE": {
+            "country": "USA",
+            "fleet": 330,
+            "icao": "BOE",
+            "iata": null,
+            "callsign": "BOEING",
+            "name": "Boeing"
+        },
+        "AIB": {
+            "country": "FRA",
+            "fleet": 891,
+            "icao": "AIB",
+            "iata": null,
+            "callsign": "AIRBUS INDUSTRIE",
+            "name": "Airbus"
+        },
+        "AEH": {
+            "country": "SVN",
+            "fleet": 17,
+            "icao": "AEH",
+            "iata": "NL",
+            "callsign": "VEGA",
+            "name": "Amelia International"
+        },
+        "NKS": {
+            "country": "USA",
+            "fleet": 179,
+            "icao": "NKS",
+            "iata": null,
+            "callsign": "SPIRIT WINGS",
+            "name": "Spirit Airlines"
+        },
+        "JST": {
+            "country": "AUS",
+            "fleet": 106,
+            "icao": "JST",
+            "iata": "JQ",
+            "callsign": "JETSTAR",
+            "name": "Jetstar Airways"
+        },
+        "JAT": {
+            "country": "CHL",
+            "fleet": 18,
+            "icao": "JAT",
+            "iata": null,
+            "callsign": "ROCKSMART",
+            "name": "JetSMART"
+        },
+        "EZY": {
+            "country": "GBR",
+            "fleet": 322,
+            "icao": "EZY",
+            "iata": "U2",
+            "callsign": "EASY",
+            "name": "easyJet"
+        },
+        "WZZ": {
+            "country": "HUN",
+            "fleet": 155,
+            "icao": "WZZ",
+            "iata": "W6",
+            "callsign": "WIZZAIR",
+            "name": "Wizz Air"
+        },
+        "MAS": {
+            "country": "MYS",
+            "fleet": 80,
+            "icao": "MAS",
+            "iata": "MH",
+            "callsign": "MALAYSIAN",
+            "name": "Malaysia Airlines"
+        },
+        "ACA": {
+            "country": "CAN",
+            "fleet": 294,
+            "icao": "ACA",
+            "iata": "AC",
+            "callsign": "AIR CANADA",
+            "name": "Air Canada"
+        },
+        "JAL": {
+            "country": "JPN",
+            "fleet": 155,
+            "icao": "JAL",
+            "iata": "JL",
+            "callsign": "JAPANAIR",
+            "name": "Japan Airlines"
+        },
+        "SAS": {
+            "country": "SWE",
+            "fleet": 144,
+            "icao": "SAS",
+            "iata": "SK",
+            "callsign": "SCANDINAVIAN",
+            "name": "SAS"
+        },
+        "CVK": {
+            "country": "UKR",
+            "fleet": 9,
+            "icao": "CVK",
+            "iata": null,
+            "callsign": "CARGO LINE",
+            "name": "Cavok Air"
+        },
+        "ABY": {
+            "country": "ARE",
+            "fleet": 55,
+            "icao": "ABY",
+            "iata": null,
+            "callsign": "ARABIA",
+            "name": "Air Arabia"
+        },
+        "VOI": {
+            "country": "MEX",
+            "fleet": 111,
+            "icao": "VOI",
+            "iata": "Y4",
+            "callsign": "VOLARIS",
+            "name": "Volaris"
+        },
+        "AMX": {
+            "country": "MEX",
+            "fleet": 145,
+            "icao": "AMX",
+            "iata": "AM",
+            "callsign": "AEROMEXICO",
+            "name": "Aeromexico"
+        },
+        "CMP": {
+            "country": "PAN",
+            "fleet": 80,
+            "icao": "CMP",
+            "iata": "CM",
+            "callsign": "COPA",
+            "name": "Copa Airlines"
+        },
+        "ASA": {
+            "country": "USA",
+            "fleet": 343,
+            "icao": "ASA",
+            "iata": "AS",
+            "callsign": "ALASKA",
+            "name": "Alaska Airlines"
+        },
+        "GTI": {
+            "country": "USA",
+            "fleet": 55,
+            "icao": "GTI",
+            "iata": null,
+            "callsign": "GIANT",
+            "name": "Atlas Air"
+        },
+        "TUI": {
+            "country": "DEU",
+            "fleet": 139,
+            "icao": "TUI",
+            "iata": "X3",
+            "callsign": "TUI JET",
+            "name": "TUI fly"
+        },
+        "VKG": {
+            "country": "DNK",
+            "fleet": 10,
+            "icao": "VKG",
+            "iata": "DK",
+            "callsign": "VIKING",
+            "name": "Sunclass Airlines"
+        },
+        "AEE": {
+            "country": "GRC",
+            "fleet": 54,
+            "icao": "AEE",
+            "iata": "A3",
+            "callsign": "AEGEAN",
+            "name": "Aegean Airlines"
+        },
+        "RYA": {
+            "country": "USA",
+            "fleet": 19,
+            "icao": "RYA",
+            "iata": null,
+            "callsign": "RYAN AIR",
+            "name": "Ryan Air (USA)"
+        },
+        "HVN": {
+            "country": "VNM",
+            "fleet": 101,
+            "icao": "HVN",
+            "iata": "VN",
+            "callsign": "VIET NAM AIRLINES",
+            "name": "Vietnam Airlines"
+        },
+        "GIA": {
+            "country": "IDN",
+            "fleet": 108,
+            "icao": "GIA",
+            "iata": "GA",
+            "callsign": "INDONESIA",
+            "name": "Garuda Indonesia"
+        },
+        "SWA": {
+            "country": "USA",
+            "fleet": 770,
+            "icao": "SWA",
+            "iata": "WN",
+            "callsign": "SOUTHWEST",
+            "name": "Southwest Airlines"
+        },
+        "BRX": {
+            "country": "SWE",
+            "fleet": 16,
+            "icao": "BRX",
+            "iata": "TF",
+            "callsign": "BRAATHENS",
+            "name": "BRA"
+        },
+        "KAP": {
+            "country": "USA",
+            "fleet": 109,
+            "icao": "KAP",
+            "iata": "9K",
+            "callsign": "CAIR",
+            "name": "Cape Air"
+        },
+        "CSA": {
+            "country": "CZE",
+            "fleet": 2,
+            "icao": "CSA",
+            "iata": "OK",
+            "callsign": "CSA-LINES",
+            "name": "Czech Airlines"
+        },
+        "VLG": {
+            "country": "ESP",
+            "fleet": 125,
+            "icao": "VLG",
+            "iata": "VY",
+            "callsign": "VUELING",
+            "name": "Vueling"
+        },
+        "CSN": {
+            "country": "CHN",
+            "fleet": 665,
+            "icao": "CSN",
+            "iata": "CZ",
+            "callsign": "CHINA SOUTHERN",
+            "name": "China Southern Airlines"
+        },
+        "HAL": {
+            "country": "USA",
+            "fleet": 62,
+            "icao": "HAL",
+            "iata": "HA",
+            "callsign": "HAWAIIAN",
+            "name": "Hawaiian Airlines"
+        },
+        "PGT": {
+            "country": "TUR",
+            "fleet": 93,
+            "icao": "PGT",
+            "iata": "PC",
+            "callsign": "SUNTURK",
+            "name": "Pegasus Airlines"
+        },
+        "AFL": {
+            "country": "RUS",
+            "fleet": 179,
+            "icao": "AFL",
+            "iata": "SU",
+            "callsign": "AEROFLOT",
+            "name": "Aeroflot"
+        },
+        "DTR": {
+            "country": "DNK",
+            "fleet": 20,
+            "icao": "DTR",
+            "iata": "DX",
+            "callsign": "DANISH",
+            "name": "DAT"
+        },
+        "LGL": {
+            "country": "LUX",
+            "fleet": 20,
+            "icao": "LGL",
+            "iata": "LG",
+            "callsign": "LUXAIR",
+            "name": "Luxair"
+        },
+        "BPS": {
+            "country": "HUN",
+            "fleet": 3,
+            "icao": "BPS",
+            "iata": "RP",
+            "callsign": "BASE",
+            "name": "Budapest Aircraft Service"
+        },
+        "SDM": {
+            "country": "RUS",
+            "fleet": 126,
+            "icao": "SDM",
+            "iata": "FV",
+            "callsign": "ROSSIYA",
+            "name": "Rossiya"
+        },
+        "ATN": {
+            "country": "USA",
+            "fleet": 13,
+            "icao": "ATN",
+            "iata": null,
+            "callsign": "AIR TRANSPORT",
+            "name": "Air Transport International"
+        },
+        "BMJ": {
+            "country": "USA",
+            "fleet": 42,
+            "icao": "BMJ",
+            "iata": null,
+            "callsign": "BEMIDJI",
+            "name": "Bemidji Airlines"
+        },
+        "UPS": {
+            "country": "USA",
+            "fleet": 290,
+            "icao": "UPS",
+            "iata": null,
+            "callsign": "UPS",
+            "name": "UPS"
+        },
+        "FDX": {
+            "country": "USA",
+            "fleet": 707,
+            "icao": "FDX",
+            "iata": null,
+            "callsign": "FEDEX",
+            "name": "FedEx"
+        },
+        "SWQ": {
+            "country": "USA",
+            "fleet": 32,
+            "icao": "SWQ",
+            "iata": null,
+            "callsign": "SWIFTFLIGHT",
+            "name": "iAero Airways"
+        },
+        "ABX": {
+            "country": "USA",
+            "fleet": 15,
+            "icao": "ABX",
+            "iata": null,
+            "callsign": "ABEX",
+            "name": "ABX Air"
+        },
+        "LYM": {
+            "country": "USA",
+            "fleet": 22,
+            "icao": "LYM",
+            "iata": "KG",
+            "callsign": "KEY LIME",
+            "name": "Key Lime Air"
+        },
+        "ICE": {
+            "country": "ISL",
+            "fleet": 40,
+            "icao": "ICE",
+            "iata": "FI",
+            "callsign": "ICEAIR",
+            "name": "Icelandair"
+        },
+        "XSR": {
+            "country": "USA",
+            "fleet": 46,
+            "icao": "XSR",
+            "iata": null,
+            "callsign": "AIRSHARE",
+            "name": "AirShare"
+        },
+        "MEA": {
+            "country": "LBN",
+            "fleet": 25,
+            "icao": "MEA",
+            "iata": "ME",
+            "callsign": "CEDAR JET",
+            "name": "MEA"
+        },
+        "IYE": {
+            "country": "YEM",
+            "fleet": 5,
+            "icao": "IYE",
+            "iata": "IY",
+            "callsign": "YEMENI",
+            "name": "Yemenia"
+        },
+        "BTK": {
+            "country": "IDN",
+            "fleet": 74,
+            "icao": "BTK",
+            "iata": "ID",
+            "callsign": "BATIK",
+            "name": "Batik Air"
+        },
+        "XAX": {
+            "country": "MYS",
+            "fleet": 22,
+            "icao": "XAX",
+            "iata": "D7",
+            "callsign": "XANADU",
+            "name": "AirAsia X"
+        },
+        "GCR": {
+            "country": "CHN",
+            "fleet": 97,
+            "icao": "GCR",
+            "iata": null,
+            "callsign": "BO HAI",
+            "name": "Tianjin Airlines"
+        },
+        "VIR": {
+            "country": "GBR",
+            "fleet": 37,
+            "icao": "VIR",
+            "iata": "VS",
+            "callsign": "VIRGIN",
+            "name": "Virgin Atlantic"
+        },
+        "IBE": {
+            "country": "ESP",
+            "fleet": 112,
+            "icao": "IBE",
+            "iata": "IB",
+            "callsign": "IBERIA",
+            "name": "Iberia"
+        },
+        "AVA": {
+            "country": "COL",
+            "fleet": 131,
+            "icao": "AVA",
+            "iata": "AV",
+            "callsign": "AVIANCA",
+            "name": "Avianca"
+        },
+        "SVA": {
+            "country": "SAU",
+            "fleet": 168,
+            "icao": "SVA",
+            "iata": "SV",
+            "callsign": "SAUDIA",
+            "name": "Saudia"
+        },
+        "LER": {
+            "country": "VEN",
+            "fleet": 9,
+            "icao": "LER",
+            "iata": "QL",
+            "callsign": "LASER",
+            "name": "Laser Airlines"
+        },
+        "ABB": {
+            "country": "BEL",
+            "fleet": 3,
+            "icao": "ABB",
+            "iata": "KF",
+            "callsign": "AIR BELGIUM",
+            "name": "Air Belgium"
+        },
+        "ABN": {
+            "country": "ALB",
+            "fleet": 2,
+            "icao": "ABN",
+            "iata": null,
+            "callsign": "AIR ALBANIA",
+            "name": "Air Albania"
+        },
+        "BEL": {
+            "country": "BEL",
+            "fleet": 40,
+            "icao": "BEL",
+            "iata": "SN",
+            "callsign": "BEELINE",
+            "name": "Brussels Airlines"
+        },
+        "EWG": {
+            "country": "DEU",
+            "fleet": 119,
+            "icao": "EWG",
+            "iata": "EW",
+            "callsign": "EUROWINGS",
+            "name": "Eurowings"
+        },
+        "THT": {
+            "country": "FRA",
+            "fleet": 4,
+            "icao": "THT",
+            "iata": "TN",
+            "callsign": "TAHITI AIRLINES",
+            "name": "Air Tahiti Nui"
+        },
+        "AXM": {
+            "country": "MYS",
+            "fleet": 239,
+            "icao": "AXM",
+            "iata": "AK",
+            "callsign": "RED CAP",
+            "name": "AirAsia"
+        },
+        "SXS": {
+            "country": "TUR",
+            "fleet": 46,
+            "icao": "SXS",
+            "iata": "XQ",
+            "callsign": "+",
+            "name": "SunExpress"
+        },
+        "KAL": {
+            "country": "KOR",
+            "fleet": 169,
+            "icao": "KAL",
+            "iata": "KE",
+            "callsign": "KOREANAIR",
+            "name": "Korean Air"
+        },
+        "SEH": {
+            "country": "GRC",
+            "fleet": 24,
+            "icao": "SEH",
+            "iata": "GQ",
+            "callsign": "AIR CRETE",
+            "name": "Sky Express"
+        },
+        "LOT": {
+            "country": "POL",
+            "fleet": 84,
+            "icao": "LOT",
+            "iata": "LO",
+            "callsign": "LOT",
+            "name": "LOT"
+        },
+        "CLX": {
+            "country": "LUX",
+            "fleet": 30,
+            "icao": "CLX",
+            "iata": null,
+            "callsign": "CARGOLUX",
+            "name": "Cargolux"
+        },
+        "OAW": {
+            "country": "CHE",
+            "fleet": 16,
+            "icao": "OAW",
+            "iata": "2L",
+            "callsign": "HELVETIC",
+            "name": "Helvetic Airways"
+        },
+        "TOM": {
+            "country": "GBR",
+            "fleet": 1,
+            "icao": "TOM",
+            "iata": "BY",
+            "callsign": "TOMJET",
+            "name": "TUI Airways"
+        },
+        "SWG": {
+            "country": "CAN",
+            "fleet": 18,
+            "icao": "SWG",
+            "iata": "WG",
+            "callsign": "SUNWING",
+            "name": "Sunwing Airlines"
+        },
+        "KOR": {
+            "country": "PRK",
+            "fleet": 10,
+            "icao": "KOR",
+            "iata": "JS",
+            "callsign": "AIR KORYO",
+            "name": "Air Koryo"
+        },
+        "WJA": {
+            "country": "CAN",
+            "fleet": 156,
+            "icao": "WJA",
+            "iata": "WS",
+            "callsign": "WESTJET",
+            "name": "WestJet"
+        },
+        "DTA": {
+            "country": "AGO",
+            "fleet": 17,
+            "icao": "DTA",
+            "iata": "DT",
+            "callsign": "DTA",
+            "name": "TAAG Angola Airlines"
+        },
+        "AZU": {
+            "country": "BRA",
+            "fleet": 180,
+            "icao": "AZU",
+            "iata": "AD",
+            "callsign": "AZUL",
+            "name": "Azul Linhas Aereas"
+        },
+        "SZN": {
+            "country": "SEN",
+            "fleet": 10,
+            "icao": "SZN",
+            "iata": "HC",
+            "callsign": "SENSA",
+            "name": "Air Senegal"
+        },
+        "GLO": {
+            "country": "BRA",
+            "fleet": 144,
+            "icao": "GLO",
+            "iata": "G3",
+            "callsign": "GOL TRANSPORTE",
+            "name": "GOL Linhas Aereas"
+        },
+        "EVA": {
+            "country": "CHN",
+            "fleet": 91,
+            "icao": "EVA",
+            "iata": "BR",
+            "callsign": "EVA",
+            "name": "EVA Air"
+        },
+        "BTI": {
+            "country": "LVA",
+            "fleet": 36,
+            "icao": "BTI",
+            "iata": "BT",
+            "callsign": "AIRBALTIC",
+            "name": "Air Baltic"
+        },
+        "TGW": {
+            "country": "SGP",
+            "fleet": 66,
+            "icao": "TGW",
+            "iata": null,
+            "callsign": "SCOOTER",
+            "name": "Scoot"
+        },
+        "AAB": {
+            "country": "BEL",
+            "fleet": 20,
+            "icao": "AAB",
+            "iata": null,
+            "callsign": "ABG",
+            "name": "Luxaviation Belgium"
+        },
+        "ABF": {
+            "country": "FIN",
+            "fleet": 5,
+            "icao": "ABF",
+            "iata": null,
+            "callsign": "SKYWINGS",
+            "name": "Scanwings"
+        },
+        "RBA": {
+            "country": "BRN",
+            "fleet": 15,
+            "icao": "RBA",
+            "iata": "BI",
+            "callsign": "BRUNEI",
+            "name": "Royal Brunei Airlines"
+        },
+        "THA": {
+            "country": "THA",
+            "fleet": 64,
+            "icao": "THA",
+            "iata": "TG",
+            "callsign": "THAI",
+            "name": "Thai Airways"
+        },
+        "SWR": {
+            "country": "CHE",
+            "fleet": 89,
+            "icao": "SWR",
+            "iata": "LX",
+            "callsign": "SWISS",
+            "name": "Swiss"
+        },
+        "VIV": {
+            "country": "MEX",
+            "fleet": 61,
+            "icao": "VIV",
+            "iata": "VB",
+            "callsign": "AEROENLACES",
+            "name": "VivaAerobus"
+        },
+        "AUA": {
+            "country": "AUT",
+            "fleet": 62,
+            "icao": "AUA",
+            "iata": "OS",
+            "callsign": "AUSTRIAN",
+            "name": "Austrian Airlines"
+        },
+        "ELY": {
+            "country": "ISR",
+            "fleet": 44,
+            "icao": "ELY",
+            "iata": "LY",
+            "callsign": "ELAL",
+            "name": "El Al"
+        },
+        "UIA": {
+            "country": "CHN",
+            "fleet": 15,
+            "icao": "UIA",
+            "iata": "B7",
+            "callsign": "-",
+            "name": "UNI Air"
+        },
+        "MXY": {
+            "country": "USA",
+            "fleet": 22,
+            "icao": "MXY",
+            "iata": null,
+            "callsign": "MOXY",
+            "name": "Breeze Airways"
+        },
+        "SEY": {
+            "country": "SYC",
+            "fleet": 7,
+            "icao": "SEY",
+            "iata": "HM",
+            "callsign": "SEYCHELLES",
+            "name": "Air Seychelles"
+        },
+        "NOK": {
+            "country": "THA",
+            "fleet": 21,
+            "icao": "NOK",
+            "iata": null,
+            "callsign": "NOK AIR",
+            "name": "Nok Air"
+        },
+        "BKP": {
+            "country": "THA",
+            "fleet": 36,
+            "icao": "BKP",
+            "iata": "PG",
+            "callsign": "BANGKOK AIR",
+            "name": "Bangkok Airways"
+        },
+        "TLM": {
+            "country": "THA",
+            "fleet": 18,
+            "icao": "TLM",
+            "iata": null,
+            "callsign": "MENTARI",
+            "name": "Thai Lion Air"
+        },
+        "CCA": {
+            "country": "CHN",
+            "fleet": 485,
+            "icao": "CCA",
+            "iata": "CA",
+            "callsign": "AIR CHINA",
+            "name": "Air China"
+        },
+        "AXB": {
+            "country": "IND",
+            "fleet": 24,
+            "icao": "AXB",
+            "iata": "IX",
+            "callsign": "EXPRESS INDIA",
+            "name": "Air India Express"
+        },
+        "EWR": {
+            "country": "FRA",
+            "fleet": 2,
+            "icao": "EWR",
+            "iata": "ZD",
+            "callsign": "MAYOTTE AIR",
+            "name": "EWA Air"
+        },
+        "TAP": {
+            "country": "PRT",
+            "fleet": 101,
+            "icao": "TAP",
+            "iata": "TP",
+            "callsign": "AIR PORTUGAL",
+            "name": "TAP Air Portugal"
+        },
+        "ATC": {
+            "country": "TZA",
+            "fleet": 12,
+            "icao": "ATC",
+            "iata": "TC",
+            "callsign": "TANZANIA",
+            "name": "Air Tanzania"
+        },
+        "UTA": {
+            "country": "RUS",
+            "fleet": 64,
+            "icao": "UTA",
+            "iata": "UT",
+            "callsign": "UTAIR",
+            "name": "UTair"
+        },
+        "SBI": {
+            "country": "RUS",
+            "fleet": 105,
+            "icao": "SBI",
+            "iata": "S7",
+            "callsign": "SIBERIAN AIRLINES",
+            "name": "S7 Airlines"
+        },
+        "SVR": {
+            "country": "RUS",
+            "fleet": 54,
+            "icao": "SVR",
+            "iata": "U6",
+            "callsign": "SVERDLOVSK AIR",
+            "name": "Ural Airlines"
+        },
+        "SSJ": {
+            "country": "RUS",
+            "fleet": 19,
+            "icao": "SSJ",
+            "iata": null,
+            "callsign": "SIBERIAN SKY",
+            "name": "Krasavia"
+        },
+        "CES": {
+            "country": "CHN",
+            "fleet": 605,
+            "icao": "CES",
+            "iata": "MU",
+            "callsign": "CHINA EASTERN",
+            "name": "China Eastern Airlines"
+        },
+        "EIN": {
+            "country": "IRL",
+            "fleet": 67,
+            "icao": "EIN",
+            "iata": "EI",
+            "callsign": "SHAMROCK",
+            "name": "Aer Lingus"
+        },
+        "CFG": {
+            "country": "DEU",
+            "fleet": 57,
+            "icao": "CFG",
+            "iata": "DE",
+            "callsign": "CONDOR",
+            "name": "Condor"
+        },
+        "NCA": {
+            "country": "JPN",
+            "fleet": 8,
+            "icao": "NCA",
+            "iata": null,
+            "callsign": "NIPPON CARGO",
+            "name": "Nippon Cargo Airlines"
+        },
+        "ACI": {
+            "country": "FRA",
+            "fleet": 6,
+            "icao": "ACI",
+            "iata": "SB",
+            "callsign": "AIRCALIN",
+            "name": "Aircalin"
+        },
+        "AAR": {
+            "country": "KOR",
+            "fleet": 82,
+            "icao": "AAR",
+            "iata": "OZ",
+            "callsign": "ASIANA",
+            "name": "Asiana Airlines"
+        },
+        "JNA": {
+            "country": "KOR",
+            "fleet": 27,
+            "icao": "JNA",
+            "iata": "LJ",
+            "callsign": "JIN AIR",
+            "name": "Jin Air"
+        },
+        "TWY": {
+            "country": "USA",
+            "fleet": 25,
+            "icao": "TWY",
+            "iata": null,
+            "callsign": "TWILIGHT",
+            "name": "Solairus Aviation"
+        },
+        "TWB": {
+            "country": "KOR",
+            "fleet": 30,
+            "icao": "TWB",
+            "iata": null,
+            "callsign": "TEEWAY",
+            "name": "T'way Air"
+        },
+        "ROU": {
+            "country": "CAN",
+            "fleet": 28,
+            "icao": "ROU",
+            "iata": "RV",
+            "callsign": "ROUGE",
+            "name": "Air Canada Rouge"
+        },
+        "SIL": {
+            "country": "USA",
+            "fleet": 17,
+            "icao": "SIL",
+            "iata": "3M",
+            "callsign": "SILVER WINGS",
+            "name": "Silver Airways"
+        },
+        "CHH": {
+            "country": "CHN",
+            "fleet": 225,
+            "icao": "CHH",
+            "iata": "HU",
+            "callsign": "HAINAN",
+            "name": "Hainan Airlines"
+        },
+        "BAV": {
+            "country": "VNM",
+            "fleet": 29,
+            "icao": "BAV",
+            "iata": "QH",
+            "callsign": "BAMBOO",
+            "name": "Bamboo Airways"
+        },
+        "JAI": {
+            "country": "IND",
+            "fleet": 1,
+            "icao": "JAI",
+            "iata": "9W",
+            "callsign": "JET AIRWAYS",
+            "name": "Jet Airways"
+        },
+        "LOG": {
+            "country": "GBR",
+            "fleet": 46,
+            "icao": "LOG",
+            "iata": null,
+            "callsign": "LOGAN",
+            "name": "Loganair"
+        },
+        "SNG": {
+            "country": "CHN",
+            "fleet": 5,
+            "icao": "SNG",
+            "iata": null,
+            "callsign": "SNOW EAGLE",
+            "name": "LongJiang Airlines"
+        },
+        "ATL": {
+            "country": "DEU",
+            "fleet": 14,
+            "icao": "ATL",
+            "iata": null,
+            "callsign": "AIR BREMEN",
+            "name": "Atlas Air Service"
+        },
+        "SJX": {
+            "country": "CHN",
+            "fleet": 10,
+            "icao": "SJX",
+            "iata": "JX",
+            "callsign": "STARWALKER",
+            "name": "Starlux"
+        },
+        "AHY": {
+            "country": "AZE",
+            "fleet": 30,
+            "icao": "AHY",
+            "iata": "J2",
+            "callsign": "AZAL",
+            "name": "Azerbaijan Airlines"
+        },
+        "JJA": {
+            "country": "KOR",
+            "fleet": 39,
+            "icao": "JJA",
+            "iata": "7C",
+            "callsign": "JEJU AIR",
+            "name": "Jeju Air"
+        },
+        "CAL": {
+            "country": "CHN",
+            "fleet": 93,
+            "icao": "CAL",
+            "iata": "CI",
+            "callsign": "DYNASTY",
+            "name": "China Airlines"
+        },
+        "QAF": {
+            "country": "QAT",
+            "fleet": 2,
+            "icao": "QAF",
+            "iata": null,
+            "callsign": "AMIRI",
+            "name": "Qatar - Amiri Flight"
+        },
+        "KBA": {
+            "country": "CAN",
+            "fleet": 36,
+            "icao": "KBA",
+            "iata": "4K",
+            "callsign": "BOREK AIR",
+            "name": "Kenn Borek Air"
+        },
+        "IRA": {
+            "country": "IRN",
+            "fleet": 36,
+            "icao": "IRA",
+            "iata": "IR",
+            "callsign": "IRANAIR",
+            "name": "Iran Air"
+        },
+        "SEJ": {
+            "country": "IND",
+            "fleet": 98,
+            "icao": "SEJ",
+            "iata": "SG",
+            "callsign": "SPICEJET",
+            "name": "SpiceJet"
+        },
+        "POE": {
+            "country": "CAN",
+            "fleet": 29,
+            "icao": "POE",
+            "iata": null,
+            "callsign": "PORTER AIR",
+            "name": "Porter Airlines"
+        },
+        "SAW": {
+            "country": "SYR",
+            "fleet": 3,
+            "icao": "SAW",
+            "iata": "6Q",
+            "callsign": "SHAMWING",
+            "name": "Cham Wings Airlines"
+        },
+        "KQA": {
+            "country": "KEN",
+            "fleet": 33,
+            "icao": "KQA",
+            "iata": "KQ",
+            "callsign": "KENYA",
+            "name": "Kenya Airways"
+        },
+        "GRL": {
+            "country": "DNK",
+            "fleet": 13,
+            "icao": "GRL",
+            "iata": "GL",
+            "callsign": "GREENLAND",
+            "name": "Air Greenland"
+        },
+        "RYS": {
+            "country": "POL",
+            "fleet": 8,
+            "icao": "RYS",
+            "iata": null,
+            "callsign": "MAGIC SUN",
+            "name": "Buzz"
+        },
+        "MAY": {
+            "country": "MLT",
+            "fleet": 6,
+            "icao": "MAY",
+            "iata": "AL",
+            "callsign": "BLUE MED",
+            "name": "Malta Air"
+        },
+        "LDA": {
+            "country": "MLT",
+            "fleet": 29,
+            "icao": "LDA",
+            "iata": null,
+            "callsign": "BEAUFORT",
+            "name": "Lauda Europe"
+        }
+    },
+    "iata": [
+        "UA",
+        "XP",
+        "DL",
+        "SY",
+        "B6",
+        null,
+        "SQ",
+        "UK",
+        "QF",
+        "AA",
+        "NZ",
+        "F9",
+        null,
+        "LA",
+        "PK",
+        "QR",
+        "BA",
+        "EY",
+        "CX",
+        "9V",
+        "AI",
+        "LS",
+        "TK",
+        "ET",
+        "EK",
+        "MK",
+        "KL",
+        "RJ",
+        "XC",
+        "NH",
+        "LH",
+        "PR",
+        "AF",
+        "TU",
+        null,
+        "AY",
+        "FR",
+        null,
+        null,
+        "NL",
+        null,
+        "JQ",
+        null,
+        "U2",
+        "W6",
+        "MH",
+        "AC",
+        "JL",
+        "SK",
+        null,
+        null,
+        "Y4",
+        "AM",
+        "CM",
+        "AS",
+        null,
+        "X3",
+        "DK",
+        "A3",
+        null,
+        "VN",
+        "GA",
+        "WN",
+        "TF",
+        "9K",
+        "OK",
+        "VY",
+        "CZ",
+        "HA",
+        "PC",
+        "SU",
+        "DX",
+        "LG",
+        "RP",
+        "FV",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "KG",
+        "FI",
+        null,
+        "ME",
+        "IY",
+        "ID",
+        "D7",
+        null,
+        "VS",
+        "IB",
+        "AV",
+        "SV",
+        "QL",
+        "KF",
+        null,
+        "SN",
+        "EW",
+        "TN",
+        "AK",
+        "XQ",
+        "KE",
+        "GQ",
+        "LO",
+        null,
+        "2L",
+        "BY",
+        "WG",
+        "JS",
+        "WS",
+        "DT",
+        "AD",
+        "HC",
+        "G3",
+        "BR",
+        "BT",
+        null,
+        null,
+        null,
+        "BI",
+        "TG",
+        "LX",
+        "VB",
+        "OS",
+        "LY",
+        "B7",
+        null,
+        "HM",
+        null,
+        "PG",
+        null,
+        "CA",
+        "IX",
+        "ZD",
+        "TP",
+        "TC",
+        "UT",
+        "S7",
+        "S7",
+        "U6",
+        null,
+        "MU",
+        "EI",
+        "DE",
+        null,
+        "SB",
+        "OZ",
+        "LJ",
+        null,
+        null,
+        "RV",
+        "3M",
+        "HU",
+        "QH",
+        "9W",
+        null,
+        null,
+        null,
+        "JX",
+        "J2",
+        "7C",
+        "CI",
+        null,
+        "4K",
+        "IR",
+        "SG",
+        null,
+        "6Q",
+        "KQ",
+        "GL",
+        null,
+        "AL",
+        null
+    ],
+    "icao": [
+        "UAL",
+        "VXP",
+        "DAL",
+        "SCX",
+        "JBU",
+        "IGO",
+        "SIA",
+        "VTI",
+        "QFA",
+        "AAL",
+        "ANZ",
+        "FFT",
+        "TTW",
+        "LAN",
+        "PIA",
+        "QTR",
+        "BAW",
+        "ETD",
+        "CPA",
+        "ROI",
+        "AIC",
+        "EXS",
+        "THY",
+        "ETH",
+        "UAE",
+        "MAU",
+        "KLM",
+        "RJA",
+        "CAI",
+        "ANA",
+        "DLH",
+        "PAL",
+        "AFR",
+        "TAR",
+        "VRE",
+        "FIN",
+        "RYR",
+        "BOE",
+        "AIB",
+        "AEH",
+        "NKS",
+        "JST",
+        "JAT",
+        "EZY",
+        "WZZ",
+        "MAS",
+        "ACA",
+        "JAL",
+        "SAS",
+        "CVK",
+        "ABY",
+        "VOI",
+        "AMX",
+        "CMP",
+        "ASA",
+        "GTI",
+        "TUI",
+        "VKG",
+        "AEE",
+        "RYA",
+        "HVN",
+        "GIA",
+        "SWA",
+        "BRX",
+        "KAP",
+        "CSA",
+        "VLG",
+        "CSN",
+        "HAL",
+        "PGT",
+        "AFL",
+        "DTR",
+        "LGL",
+        "BPS",
+        "SDM",
+        "ATN",
+        "BMJ",
+        "UPS",
+        "FDX",
+        "SWQ",
+        "ABX",
+        "LYM",
+        "ICE",
+        "XSR",
+        "MEA",
+        "IYE",
+        "BTK",
+        "XAX",
+        "GCR",
+        "VIR",
+        "IBE",
+        "AVA",
+        "SVA",
+        "LER",
+        "ABB",
+        "ABN",
+        "BEL",
+        "EWG",
+        "THT",
+        "AXM",
+        "SXS",
+        "KAL",
+        "SEH",
+        "LOT",
+        "CLX",
+        "OAW",
+        "TOM",
+        "SWG",
+        "KOR",
+        "WJA",
+        "DTA",
+        "AZU",
+        "SZN",
+        "GLO",
+        "EVA",
+        "BTI",
+        "TGW",
+        "AAB",
+        "ABF",
+        "RBA",
+        "THA",
+        "SWR",
+        "VIV",
+        "AUA",
+        "ELY",
+        "UIA",
+        "MXY",
+        "SEY",
+        "NOK",
+        "BKP",
+        "TLM",
+        "CCA",
+        "AXB",
+        "EWR",
+        "TAP",
+        "ATC",
+        "UTA",
+        "SBI",
+        "SBI",
+        "SVR",
+        "SSJ",
+        "CES",
+        "EIN",
+        "CFG",
+        "NCA",
+        "ACI",
+        "AAR",
+        "JNA",
+        "TWY",
+        "TWB",
+        "ROU",
+        "SIL",
+        "CHH",
+        "BAV",
+        "JAI",
+        "LOG",
+        "SNG",
+        "ATL",
+        "SJX",
+        "AHY",
+        "JJA",
+        "CAL",
+        "QAF",
+        "KBA",
+        "IRA",
+        "SEJ",
+        "POE",
+        "SAW",
+        "KQA",
+        "GRL",
+        "RYS",
+        "MAY",
+        "LDA"
+    ]
+}

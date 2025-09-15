@@ -1,0 +1,380 @@
+{
+    "airports": {
+        "ksea": {
+            "kpdx": "SEA BUWZO KRATR2",
+            "phnl": "HAROB6 HQM SEDAR 4300N/13100W 4000N/13600W 3700N/14000W HELOP A332 AUNTI R463 APACK MAGGI3",
+            "panc": "BANGR9 ARRIE FOCHE PRYCE BKA LAIRE JOH PTERS3",
+            "ksfo": "HAROB6 ERAVE Q1 ETCHY MLBEC BDEGA3"
+        },
+        "ksfo": {
+            "kbos": "TRUKN2 TIPRE Q126 RALEY Q126 GAROT CHE OFK DBQ SVM DKK PONCT JFUND2",
+            "phnl": "GNNRR3 BEBOP R464 BAART R464 BITTA MAGGI3",
+            "kpdx": "TRUKN2 GRTFL MACHU TMBRS2",
+            "kiad": "TRUKN2 SYRAH Q128 JSICA MLF HBU HGO SLN STL J134 FLM J24 HVQ DOCCS3",
+            "ltfm": "SNTNA2 DEDHD LKV J3 IMB ONSET WELLF YEG 5700N/11000W 6200N/10000W 6500N/09200W 6700N/08000W 6800N/07000W BOPUT 7000N/05000W 7000N/04000W 7000N/03000W 6900N/02000W 6700N/01000W 6400N/00000E BURIX IPMOD TOPLA AMROR N983 ELPOL LENOV KEKED BADOR RONBU BUVAK RIXEN",
+            "vidp": "GNNRR3 AMAKR LINUZ 4400N/13000W 5100N/14000W ODK Q55 OME KUTAL M182 BEKMI R351 LURET T640 OLEMU R27 BASUL R27 CE R116 SP R116 TOKMO A300 NN G829 GV R484 BAROV B955 LAGMO M149 BLH N102 ARBOL N102 SMK P178 DODUR M168 ABGEN M168 KUFIM L170 MOSOM A114 OLRAM L148 AMDAR M875 TAPIS L509 NONIB T400 SULOM L509 ASARI A466 ELKUX"
+        },
+        "kpdx": {
+            "ksfo": "MINNE5 FAMUK Q3 FOWND MLBEC BDEGA3",
+            "kjfk": "LAVAA6 PDT J16 BIL MARLS JELRO DKOTA HUFFR EAU GRB MBS HOCKE KITOK JHW J70 STENT J70 MAGIO J70 LVZ LENDY8",
+            "ksea": "COUGA KRIEG HAWKZ7",
+            "egll": "LAVAA6 PDT MLP J540 YQL Q896 MEETO YYL 6130N/09000W 6400N/08000W 6530N/07000W EPMAN 6600N/05000W 6600N/04000W 6500N/03000W 6300N/02000W PODAR BALIX NINEX ELBUS UL612 LAKEY NUGRA NUGRA1H",
+            "phnl": "ONP HEMLO A332 AUNTI R463 APACK MAGGI3",
+            "cyvr": "BTG J1 SEA PAE GRIZZ7"
+        },
+        "kjfk": {
+            "kpdx": "COATE Q436 RAAKK Q440 HUFFR KP03E KP06A MLS KU09Q JORAD HHOOD4",
+            "egll": "MERIT HFD PUT EBONY N381B ALLRY 5100N/05000W 5300N/04000W 5400N/03000W 5400N/02000W MALOT GISTI ENJEX AVZAC INFEC JETZI OGLUN OCTIZ P2 SIRIC SIRIC1H",
+            "kdca": "RBV Q430 COPES Q75 MXE CLIPR3",
+            "klac": "upgrade your browser",
+            "kmia": "WAVEY EMJAY Q167 ZJAAY KALDA Q101 SKARP Y313 HOAGG BNFSH2",
+            "eham": "GREKI JUDDS MARTN TOPPS N557A NEEKO NATT 5400N/05000W NATT 5500N/02000W NATT RESNO NATT NETKI NIBOG BELOX L603 LAMSO",
+            "kord": "COATE Q436 EMMMA WYNDE2"
+        },
+        "cyvr": {
+            "egll": "JANEK LYTON LONRO YZU J527 YMM 6100N/10000W 6300N/09000W 6430N/08000W 6530N/07000W EPMAN 6600N/05000W 6600N/04000W 6500N/03000W 6200N/02000W 6000N/01500W GOMUP GINGA KELLY L10 WAL UY53 NANTI UY53 NUGRA NUGRA1H"
+        },
+        "kspb": {
+            "klax": "upgrade your browser"
+        },
+        "lpbr": {
+            "lppr": "upgrade your browser"
+        },
+        "lppt": {
+            "egll": "upgrade your browser"
+        },
+        "egll": {
+            "loww": "upgrade your browser",
+            "kjfk": "RIKAL TOPPS ENE PARCH3",
+            "kpdx": "LONRO YDC J503 SEA BUWZO KRATR2",
+            "eddf": "upgrade your browser",
+            "lemd": "upgrade your browser"
+        },
+        "klax": {
+            "kden": "ORCKA5 LAS J146 DICEE BUMMP SSKII3",
+            "ksjc": "SUMMR2 SCTRR TROXX SILCN6",
+            "ksfo": "SUMMR2 STOKD SERFR SERFR4",
+            "mmmx": "PNDAH2 TCATE PPE UJ7 HMO UT18 NABAS UT49 DGO UJ5 ZCL UT130 DARAN DARAN3A"
+        },
+        "rjtt": {
+            "klax": "4200N/13000W VESPA ENI OAK BURGL IRNMN2",
+            "kjfk": "KALIG CUTEE CARTO CHIPT CHIKI CURVS CRYPT CAMBO CUDDA ODK BKA LVD YXS YEGGA Q819 TAGOT Q908 KOBID VBI J500 YQT SSM Q917 MUSIT SIKBO Q140 YODAA IGN IGN1",
+            "yssy": "INUBO Y820 DAGDA A337 NOGAK 2746N/14321E 2229N/14333E 2100N/14349E 1652N/14432E 1138N/14506E 0911N/14515E 0458N/14539E PIKOK B586 PY 1058S/14653E 1200S/14641E PUPEB R210 CS V264 IGIKI V153 IBUXI TL W232 LUKPU W766 EML 2532S/14840E UBLUK H652 BOREE"
+        },
+        "zspd": {
+            "zbad": "upgrade your browser"
+        },
+        "tpa": {
+            "lga": "BAYPO1 CAMJO Q99 POLYY DADDS Q87 HURTS HUBBS PXT KORRY4"
+        },
+        "australia": {
+            "canda": "upgrade your browser"
+        },
+        "spqu": {
+            "scel": "upgrade your browser"
+        },
+        "wsss": {
+            "rksi": "upgrade your browser",
+            "vtbs": "upgrade your browser",
+            "wiii": "upgrade your browser",
+            "egll": "upgrade your browser"
+        },
+        "ksjc": {
+            "mmgl": "SPTNS1 VLREE EBAYE CROWY LAX PACIF OTAYY TIJ UT4 LMM UJ3 MZT UJ7 LONVA LONVA1D",
+            "klax": "SPTNS1 VLREE EBAYE BURGL IRNMN2",
+            "ksna": "SPTNS1 VLREE EBAYE BURGL ELLBC OHSEA2",
+            "ksan": "TECKY4 VLREE EBAYE AVE FIM J1 LAX COMIX2"
+        },
+        "lebb": {
+            "lemd": "upgrade your browser"
+        },
+        "mco": {
+            "sju": "DDANY3 JIPOD VENDS Y185 RENAH Y355 PLING RTE7 SAALR"
+        },
+        "lfll": {
+            "lfpg": "upgrade your browser",
+            "omdb": "upgrade your browser",
+            "dxb": "upgrade your browser"
+        },
+        "mmmx": {
+            "mmgl": "OVAGO2A OVAGO UT123 ULUVO ULUVO1A"
+        },
+        "eddf": {
+            "eddg": "upgrade your browser",
+            "eddh": "upgrade your browser",
+            "egll": "upgrade your browser"
+        },
+        "axm": {
+            "ak": "upgrade your browser"
+        },
+        "changi airport": {
+            "john f. airport": "upgrade your browser"
+        },
+        "jfk": {
+            "lax": "RBV Q430 AIR J80 MCI J24 SLN J102 ALS J44 RSK J64 TBC JASSE Q90 DNERO ANJLL4"
+        },
+        "yyz": {
+            "fll": "BETES3 AIRRA Q103 SLOJO Q83 EFFAY Q83 JEVED Q97 PRMUS CUUDA2",
+            "dxb": "DEDKI5 OLABA Q951 ANTOV HULTN 4800N/06000W YQX ELSIR 5000N/05000W 5000N/04000W 4900N/03000W 4600N/02000W 4300N/01500W ARMED BARDI UM191 DIPOL UM871 NANDO UT257 LASPO UZ224 NINES OLMIR XARON GENIO LUXUR UM134 ANB UA411 MORJA SONAK DINUX ARLOS UN4 SALUN N705 BOPIX N710 TAKRI M720 FYM W613 ALPID MENLI SISIK W976 TAKSU L550 VUTEB",
+            "yvr": "AVSEP7 MUSIT SSM YQT 4930N/10000W DESNU Q888 BOOTH CANUC5",
+            "dxb\\": "upgrade your browser",
+            "mdpc": "RIGUS5 PSB J61 EMI Q119 SCOOB EARZZ SKARP Y327 CLOWR Y327 JAINS L451 LETON L451 IORIO POKEG POKEG1W"
+        },
+        "mmgl": {
+            "rjaa": "upgrade your browser",
+            "ksjc": "TUMAP UT4 TIJ IKAYE SCTRR TROXX SILCN6",
+            "mmcn": "SEDEM1A SEDEM UJ3 PALIA UJ3 CEN"
+        },
+        "kiad": {
+            "ksfo": "BUNZZ3 RAMAY Q72 HACKS SHB KK60I KP60C FQF KU54O KROST INYOE DYAMD5"
+        },
+        "kbwi": {
+            "ksea": "TERPZ7 MCRAY Q178 DJB GRB ABR DLN PDT CHINS5",
+            "kjfk": "PALEO3 ACY T315 PANZE V44 CAMRN"
+        },
+        "kbos": {
+            "kdca": "PATSS6 PATSS NELIE BIZEX Q75 MXE CLIPR3",
+            "kdet": "upgrade your browser"
+        },
+        "kavp": {
+            "kdca": "upgrade your browser"
+        },
+        "hnl": {
+            "lax": "MKK5 KOLEA CLUTS R465 CIVIT R585 AUDIA SNAXX RYDRR2",
+            "ogg": "PALAY3 LNY CAMPS3",
+            "pdx": "MKK5 APACK R463 AUNTI A332 HALLI A332 HEMLO ONP UBG",
+            "las": "MKK5 KOLEA CLUTS R465 CIVIT R585 AUDIA C1155 MQO PMD DAG MISEN RNDRZ2",
+            "mco": "upgrade your browser"
+        },
+        "phnl": {
+            "klax": "MKK5 KOLEA CLUTS R465 CIVIT R585 AUDIA SNAXX RYDRR2"
+        },
+        "eham": {
+            "gmmn": "upgrade your browser",
+            "bikf": "upgrade your browser"
+        },
+        "mexico": {
+            "japan": "upgrade your browser"
+        },
+        "kdlh": {
+            "kfcm": "GOLLF GEP1"
+        },
+        "lax": {
+            "tpe": "SUMMR2 MCKEY LIBBO BRINY ALCOA CEPAS COBAD 4100N/14000W 4400N/15000W 4600N/16000W 4500N/17000W 4200N/18000E 3800N/17000E 3400N/16000E 3100N/15000E 2800N/14000E CANAI V75 NHC V91 MJC R595 SEDKU R595 BRENT R595 LOTTO R595 GRACE GRACE1A",
+            "las": "ORCKA5 MISEN RNDRZ2",
+            "nrt": "SUMMR2 MCKEY LIBBO BRINY BOARS AMAKR LINUZ MITOH EDWIL 4600N/14000W 4900N/15000W 5100N/16000W ROBBN 5100N/18000E 5000N/17000E AKISU AGEDI ADGOR R591 ADNAP Y807 NOGIX Y802 OLDIV Y809 SUPOK"
+        },
+        "vabb": {
+            "vidp": "upgrade your browser"
+        },
+        "vvnb": {
+            "kjfk": "upgrade your browser"
+        },
+        "uuee": {
+            "ulli": "upgrade your browser"
+        },
+        "khwv": {
+            "kisp": "upgrade your browser"
+        },
+        "hwv": {
+            "isp": "upgrade your browser",
+            "dfw": "upgrade your browser"
+        },
+        "lcy": {
+            "lhr": "upgrade your browser"
+        },
+        "dub": {
+            "lhbp": "upgrade your browser"
+        },
+        "loow": {
+            "lhbp": "upgrade your browser"
+        },
+        "vvcr": {
+            "vvts": "upgrade your browser"
+        },
+        "rjaa": {
+            "rksi": "upgrade your browser",
+            "panc": "AGEDI AKISU ASPIN AAMYY SYA AMOND ALDOZ ALUFF SPY CHUUK EHM HAMND ANC"
+        },
+        "lmml": {
+            "licc": "upgrade your browser"
+        },
+        "katl": {
+            "kjfk": "PHIIL3 HRTWL Q64 SAWED Q97 DLAAY RADDS SIE CAMRN4"
+        },
+        "kmaf": {
+            "kord": "upgrade your browser",
+            "kden": "MAF V81 SLIDE PNH ZIGEE NIIXX3"
+        },
+        "keug": {
+            "ksea": "CITYY BTG HAWKZ7"
+        },
+        "lhr": {
+            "ath": "upgrade your browser"
+        },
+        "asia": {
+            "new zealand": "upgrade your browser",
+            "moscow": "upgrade your browser"
+        },
+        "america": {
+            "dfw": "upgrade your browser"
+        },
+        "north america": {
+            "dfw": "upgrade your browser"
+        },
+        "aeroflot": {
+            "aeroflot": "upgrade your browser"
+        },
+        "othh": {
+            "vomm": "upgrade your browser"
+        },
+        "ksna": {
+            "panc": "HHERO3 EHF NTELL RAILE HOMEG KS78C KS90A FENGR DOLFF UDMAP MOCHA KORRL KONKS JOH YESKA6"
+        },
+        "mmcz": {
+            "mmmd": "upgrade your browser"
+        },
+        "rdu": {
+            "cdg": "BEXGO5 BOUSY RIC BBOBO Q22 PYTHN Q22 RBV BAF KB87E MIILS N269A JOOPY NATX DINIM NATX ELSOX LULOX NAKID ANNET UM25 UVSUV UM25 INGOR UM25 LUKIP LUKIP9E"
+        },
+        "ktpa": {
+            "kjfk": "BAYPO2 CAMJO Q109 DFENC SAWED Q97 BYSEL RADDS SIE CAMRN4"
+        },
+        "gdl": {
+            "sjc": "SEDEM1A SEDEM UJ3 LMM SQN ZONKY EIREE IKAYE SCTRR TROXX SILCN6"
+        },
+        "omdb": {
+            "fsia": "upgrade your browser"
+        },
+        "lebl": {
+            "eddf": "upgrade your browser"
+        },
+        "57d": {
+            "kfnt": "upgrade your browser"
+        },
+        "dtw": {
+            "rdu": "LIDDS3 GRIVY NUSMM EKN FRIKY ALDAN4"
+        },
+        "limc": {
+            "lifm": "upgrade your browser",
+            "lfmn": "upgrade your browser"
+        },
+        "viar": {
+            "egbb": "upgrade your browser"
+        },
+        "gva": {
+            "bud": "upgrade your browser"
+        },
+        "edds": {
+            "eddf": "upgrade your browser"
+        },
+        "lfpg": {
+            "ldos": "upgrade your browser"
+        },
+        "oerk": {
+            "egll": "upgrade your browser"
+        },
+        "egkk": {
+            "egcc": "upgrade your browser",
+            "kjfk": "ENE PARCH3",
+            "ksfo": "upgrade your browser"
+        },
+        "epwa": {
+            "egkk": "upgrade your browser"
+        },
+        "dus": {
+            "rix": "upgrade your browser"
+        },
+        "wall": {
+            "wiii": "upgrade your browser"
+        },
+        "lkpr": {
+            "eddf": "upgrade your browser"
+        },
+        "rjoo": {
+            "rjtt": "upgrade your browser"
+        },
+        "ywk": {
+            "yyy": "YWK ARAME TABIK"
+        },
+        "durand mi": {
+            "hong kong china": "upgrade your browser"
+        },
+        "kwi": {
+            "bey": "upgrade your browser"
+        },
+        "kcle": {
+            "kiad": "KKIDS1 NUSMM MGW GIBBZ5"
+        },
+        "california": {
+            "indiana": "upgrade your browser"
+        },
+        "tjbq": {
+            "tjsj": "upgrade your browser"
+        },
+        "lszh": {
+            "lsgg": "upgrade your browser"
+        },
+        "mxp": {
+            "sdq": "upgrade your browser",
+            "lin": "upgrade your browser"
+        },
+        "liml": {
+            "ebbr": "upgrade your browser"
+        },
+        "islamabad": {
+            "nyc": "upgrade your browser"
+        },
+        "syd": {
+            "yvr": "4331N/13249W SHARI PEKAA"
+        },
+        "skcg": {
+            "mdpc": "upgrade your browser"
+        },
+        "skbo": {
+            "kmia": "ALTIB UM779 ZEUSS VIICE2"
+        },
+        "sabe": {
+            "sazm": "upgrade your browser"
+        },
+        "fru": {
+            "icn": "upgrade your browser"
+        },
+        "vhhh": {
+            "vmmc": "upgrade your browser"
+        },
+        "ebbr": {
+            "ebos": "upgrade your browser"
+        },
+        "kef": {
+            "den": "AMENU KP09Y RAP NYTRO AALLE3"
+        },
+        "sbsp": {
+            "sbrj": "upgrade your browser"
+        },
+        "stockton": {
+            "chicago": "upgrade your browser"
+        },
+        "cyyz": {
+            "cysj": "BOMET8 OLABA Q951 TALNO Q929 TOXAL VITUX"
+        },
+        "ord": {
+            "dia": "upgrade your browser"
+        },
+        "rkpc": {
+            "rkss": "upgrade your browser"
+        },
+        "uus": {
+            "jfk": "upgrade your browser"
+        },
+        "vidp": {
+            "vaah": "upgrade your browser"
+        },
+        "eheh": {
+            "lepa": "upgrade your browser"
+        },
+        "bkw": {
+            "los": "upgrade your browser"
+        }
+    }
+}
